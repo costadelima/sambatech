@@ -1,2 +1,2 @@
 # sambatech
-Desafio Técnico Samba Tech
+Desafio Técnico SambaTech
